@@ -23,7 +23,7 @@ Och så kom helgen, 20 nya kinesiska tecken och en evig väntan. Tåget avgick f
 
 <br class="spacer_" />
 
-[<img class="alignnone size-large wp-image-220" title="Next station, Taitung" src="http://www.doversten.nu/blog/wp-content/uploads/2010/10/101002-0051-500x469.jpg" alt="" width="500" height="469" />][1]
+[<img class="alignnone size-large wp-image-220" title="Next station, Taitung" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/101002-0051.jpg" alt="" width="500" height="469" />][1]
 
 <br class="spacer_" />
 
@@ -35,7 +35,7 @@ När tåget väl rullade in på Taitung station tidigt på lördags morgonen var
 
 <br class="spacer_" />
 
-[<img class="alignnone size-large wp-image-221" title="Lost at Green Island" src="http://www.doversten.nu/blog/wp-content/uploads/2010/10/101002-042-500x333.jpg" alt="" width="500" height="333" />][2]
+[<img class="alignnone size-large wp-image-221" title="Lost at Green Island" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/101002-042.jpg" alt="" width="500" height="333" />][2]
 
 <br class="spacer_" />
 
@@ -43,7 +43,7 @@ Jag har aldrig i hela mitt liv sett något så grönt. Berg, dalar, vatten, ön 
 
 <br class="spacer_" />
 
-[<img class="alignnone size-medium wp-image-223" title="Prison, Green Island" src="http://www.doversten.nu/blog/wp-content/uploads/2010/10/101003-061-300x450.jpg" alt="" width="300" height="450" />][3]
+[<img class="alignnone size-medium wp-image-223" title="Prison, Green Island" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/101003-061.jpg" alt="" width="300" height="450" />][3]
 
 <br class="spacer_" />
 
@@ -53,7 +53,7 @@ Slutet gott, allting gott. Sent söndagkväll tog vi båt och tåg tillbaka til
 
 <br class="spacer_" />
 
-[<img class="size-large wp-image-226 alignnone" title="Water splash" src="http://www.doversten.nu/blog/wp-content/uploads/2010/10/101003-0742-500x366.jpg" alt="" width="500" height="366" />][4]
+[<img class="size-large wp-image-226 alignnone" title="Water splash" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/101003-0742.jpg" alt="" width="500" height="366" />][4]
 
 <br class="spacer_" />
 

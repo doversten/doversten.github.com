@@ -37,10 +37,10 @@ tags:
   - taiwan
 section: taiwan
 ---
-<p><a href="http://www.doversten.nu/blog/wp-content/uploads/2010/09/view2-hdr1.jpg"><img class="alignnone size-large wp-image-161" title="View from Taipei 101, second round" src="http://www.doversten.nu/blog/wp-content/uploads/2010/09/view2-hdr-500x331.jpg" alt="" /></a></p>
+<p><a href="http://www.doversten.nu/blog/wp-content/uploads/2010/09/view2-hdr1.jpg"><img class="alignnone size-large wp-image-161" title="View from Taipei 101, second round" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/view2-hdr.jpg" alt="" /></a></p>
 <p><br class="spacer_" /></p>
 <p>Äntligen har mina kurser ordnat till sig här nere. Jag kommer läsa kinesiska som jag redan har nämnt och härom dagen registrerade jag mig på &#8220;Data Communication&#8221;. Det känns som en vettig kurs och föreläsaren verkar veta vad han pratar om. Självklart är han lika intresserad av snö som alla andra här nere. Man har förstått att svenskar inte besöker Taiwan allt för ofta. Enda anledningen att den kursen hålls på engelska är p g a mig. Första föreläsningen fick jag höra att det fanns en klar kulturskillnad mellan svenskar och taiwaneser. &#8220;Today we can notice the difference between this swedish guy in the front and all of you other guys. He is asking questions and you are shy and scared to ask. And it is because of him we will teach this class in english&#8221;. Tystnad rådde i klassrummet och jag kände mig lite smått obekväm. Men förhoppningsvis kan dom lära mig och jag dom.</p>
 <p><br class="spacer_" /></p>
-<p><a href="http://www.doversten.nu/blog/wp-content/uploads/2010/09/IMG_47121.jpg"><img title="Swedish people high above" src="http://www.doversten.nu/blog/wp-content/uploads/2010/09/IMG_4712-500x310.jpg" alt="" /></a></p>
+<p><a href="http://www.doversten.nu/blog/wp-content/uploads/2010/09/IMG_47121.jpg"><img title="Swedish people high above" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/IMG_4712.jpg" alt="" /></a></p>
 <p><br class="spacer_" /></p>
 <p>Jag tog mig en sväng till Taipei 101 igen tillsammans med dom andra svenskarna. En trevlig kväll. Planer till en Hong Kong weekend börjades smidas och förhoppningsvis ska vi komma iväg om inte allt för många helger. Man måste ju passa på att resa lite när man har åkt så här långt. Det sägs att Hong Kong ska vara trevligt och jag har ju redan sett flygplatsen, där var det i alla fall fint. Jag har precis kryssat den tjugosjätte dagen utan svenskluft i mina lungor.</p>

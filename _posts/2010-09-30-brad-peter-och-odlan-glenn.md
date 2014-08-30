@@ -33,7 +33,7 @@ tags:
   - taiwan
 section: taiwan
 ---
-[<img class="alignnone size-large wp-image-197" title="People on the subway" src="http://www.doversten.nu/blog/wp-content/uploads/2010/09/IMGP0021-500x307.jpg" alt="" width="500" height="307" />][1]
+[<img class="alignnone size-large wp-image-197" title="People on the subway" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/IMGP0021.jpg" alt="" width="500" height="307" />][1]
 
 <br class="spacer_" />
 
@@ -47,7 +47,7 @@ Så vad händer här nere i hettan, vi har fortfarande stadiga 31 grader. Dagar
 
 <br class="spacer_" />
 
-[<img title="White sand beach" src="http://www.doversten.nu/blog/wp-content/uploads/2010/09/IMG_4967-500x333.jpg" alt="" width="500" height="333" />][2]
+[<img title="White sand beach" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/IMG_4967.jpg" alt="" width="500" height="333" />][2]
 
 <br class="spacer_" />
 
@@ -61,7 +61,7 @@ Kalla mig mördare, djurhatare, vad som helst. Men det var ju inte meningen, fö
 
 <br class="spacer_" />
 
-[<img class="alignnone size-large wp-image-199" title="Glenn" src="http://www.doversten.nu/blog/wp-content/uploads/2010/09/IMGP0030-500x373.jpg" alt="" width="500" height="373" />][3]
+[<img class="alignnone size-large wp-image-199" title="Glenn" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/IMGP0030.jpg" alt="" width="500" height="373" />][3]
 
 <br class="spacer_" />
 

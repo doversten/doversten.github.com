@@ -25,7 +25,7 @@ tags:
   - visum
 section: taiwan
 ---
-[<img class="alignnone size-large wp-image-77" title="Fulong beach" src="http://www.doversten.nu/blog/wp-content/uploads/2010/08/fulong_beach-500x333.jpg" alt="" />][1]
+<img class="alignnone size-large wp-image-77" title="Fulong beach" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/fulong_beach.jpg" alt="" />
 
 <br class="spacer_" />
 
@@ -42,12 +42,9 @@ Efter en välbehövd nattvila vaknade vi med ett ryck när Filip (en riktigt tre
 
 <br class="spacer_" />
 
-[<img class="alignnone size-large wp-image-78" title="On the bridge at Fulong beach" src="http://www.doversten.nu/blog/wp-content/uploads/2010/08/fulong-500x333.jpg" alt="" />][2]
+<img class="alignnone size-large wp-image-78" title="On the bridge at Fulong beach" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/fulong.jpg" alt="" />
 
 <br class="spacer_" />
 
 **Fredag, ny dag nya äventyr (andra dagen)**  
 Äntligen hade vi fått tips om ett bra frukost ställe. Det har visat sig att Taiwans befolkning äter frukost i form av hamburgare, toast eller nudlar. Toppar du detta med en kall juice eller drickyogurt från 7-eleven är du hemma. Vi hade efter några tappra googlingar fått klart för oss att Fulong beach skulle vara något alldeles extra. Med 31 grader i skuggan och jag vet inte hur varmt i solen blir man ganska snabbt badsugen. När vi frågade nere på skolan skrattade dom åt oss när vi sa att vi ville åka till stranden. Men, Fulong beach. Lite buss, lite tunnelbana och ca en timme med tåg var vi där. En jättebro som gränsade över till en konstgjord ö av sand och en helt underbar natur. Grönt så långt ögat kunde nå och hav i mängder. Tyvärr stängde stranden vid 18-tiden och det var dags att ta sig tillbaka med tåget. Väl hemma på campus bestämde vi oss för att kolla in några nattliga aktiviteter. Taxi är hyffsat billigt men det gäller att veta var man ska för engelskan är lika med noll. Som sagt, taxi till Anhe Rd. för lite partaj. Vi prövade oss fram och hamnade till slut på en lokal liten pub. Något liknande husband spelade som var helt okej, men man förstod inte ett skvatt. Däremot stannade jag och Filip kvar efteråt och pratade med managern för bandet. En trevlig prick som skrattade åt det mesta man sa. Och vem vet kanske får man dra några Eriks Orkester dängor här nere med?
-
- [1]: http://www.doversten.nu/blog/wp-content/uploads/2010/09/fulong_beach.jpg
- [2]: http://www.doversten.nu/blog/wp-content/uploads/2010/09/fulong.jpg

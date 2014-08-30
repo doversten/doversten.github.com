@@ -26,7 +26,7 @@ tags:
   - taiwan
 section: taiwan
 ---
-[<img class="alignnone size-large wp-image-82" title="View from Taipei 101" src="http://www.doversten.nu/blog/wp-content/uploads/2010/08/taipei_101-500x331.jpg" alt="" />][1]
+[<img class="alignnone size-large wp-image-82" title="View from Taipei 101" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/taipei_101.jpg" alt="" />][1]
 
 <br class="spacer_" />
 

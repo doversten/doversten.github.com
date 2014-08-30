@@ -27,7 +27,7 @@ Jag har tidigare nämnt hur få turister som har valt Taiwan som resmål. Kanske
 
 <br class="spacer_" />
 
-[<img class="size-large wp-image-330 alignnone" title="Hong Kong" src="http://www.doversten.nu/blog/wp-content/uploads/2010/11/101029-002-500x333.jpg" alt="" width="500" height="333" />][1]
+<img class="size-large wp-image-330 alignnone" title="Hong Kong" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/101029-002.jpg" alt="" width="500" height="333" />
 
 <br class="spacer_" />
 
@@ -43,7 +43,7 @@ Käre Gunnar Johansson hade, från huvudkvarteret i Särö, skickat mig ett sms 
 
 <br class="spacer_" />
 
-[<img class="alignnone size-medium wp-image-331" title="Johannes" src="http://www.doversten.nu/blog/wp-content/uploads/2010/11/101031-074-300x450.jpg" alt="" width="300" height="450" />][2]
+<img class="alignnone size-medium wp-image-331" title="Johannes" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/101031-074.jpg" alt="" width="300" height="450" />
 
 <br class="spacer_" />
 
@@ -59,7 +59,7 @@ Inga grejor i fickorna, väga sig för tredje gången, stilla nerverna, lyssna p
 
 <br class="spacer_" />
 
-[<img class="alignnone size-medium wp-image-332" title="Macau tower" src="http://www.doversten.nu/blog/wp-content/uploads/2010/11/101030-036-300x450.jpg" alt="" width="300" height="450" />][3]
+<img class="alignnone size-medium wp-image-332" title="Macau tower" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/101030-036.jpg" alt="" width="300" height="450" />
 
 <br class="spacer_" />
 
@@ -71,7 +71,7 @@ Trotts något tunga Gin & Tonic huvuden masade vi oss upp kring nio snåret för
 
 <br class="spacer_" />
 
-[<img class="alignnone size-large wp-image-333" title="Buddha" src="http://www.doversten.nu/blog/wp-content/uploads/2010/11/101031-079-500x333.jpg" alt="" width="500" height="333" />][4]
+<img class="alignnone size-large wp-image-333" title="Buddha" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/101031-079.jpg" alt="" width="500" height="333" />
 
 <br class="spacer_" />
 
@@ -82,8 +82,3 @@ Hong Kong vistelsen blev intensiv men ett vackert minne för livet. Visst har ma
 Till helgen bär det av till Kyoto och Osaka i Japan, så jag hoppas ni har läst klart till dess. Ta hand om er där hemma och så länge&#8230;. ﻿再見!
 
 <br class="spacer_" />
-
- [1]: http://www.doversten.nu/blog/wp-content/uploads/2010/11/101029-002.jpg
- [2]: http://www.doversten.nu/blog/wp-content/uploads/2010/11/101031-074.jpg
- [3]: http://www.doversten.nu/blog/wp-content/uploads/2010/11/101030-036.jpg
- [4]: http://www.doversten.nu/blog/wp-content/uploads/2010/11/101031-079.jpg

@@ -28,7 +28,7 @@ Efter ca en timme på bussens skumpiga säten började det luta friskt, vi var p
 
 <br class="spacer_" />
 
-[<img class="size-large wp-image-295 alignnone" title="Gold mining view" src="http://www.doversten.nu/blog/wp-content/uploads/2010/10/HDR3-500x332.jpg" alt="" width="500" height="332" />][1]
+<img class="size-large wp-image-295 alignnone" title="Gold mining view" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/HDR3.jpg" alt="" width="500" height="332" />
 
 <br class="spacer_" />
 
@@ -36,7 +36,7 @@ Trippen fortsatte och vi tog bussen, tillsammans med kinesisk guide och allt, ne
 
 <br class="spacer_" />
 
-[<img class="size-medium wp-image-296 alignnone" title="Jui Fan" src="http://www.doversten.nu/blog/wp-content/uploads/2010/10/IMG_6003-300x450.jpg" alt="" width="300" height="450" />][2]
+<img class="size-medium wp-image-296 alignnone" title="Jui Fan" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/IMG_6003.jpg" alt="" width="300" height="450" />
 
 <br class="spacer_" />
 
@@ -44,7 +44,7 @@ Om jag vore astronut hade jag troligtvis slagit läger i Yehliu (det tredje stop
 
 <br class="spacer_" />
 
-[<img class="size-large wp-image-297 alignnone" title="Yehliu" src="http://www.doversten.nu/blog/wp-content/uploads/2010/10/IMG_6034-500x358.jpg" alt="" width="500" height="358" />][3]
+<img class="size-large wp-image-297 alignnone" title="Yehliu" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/IMG_6034.jpg" alt="" width="500" height="358" />
 
 <br class="spacer_" />
 
@@ -52,11 +52,6 @@ Mörkret kom och vi hade fortfarande ett stopp kvar. Inte så långt i från sva
 
 <br class="spacer_" />
 
-[<img class="size-large wp-image-298 alignnone" title="Juming Museum" src="http://www.doversten.nu/blog/wp-content/uploads/2010/10/HDR2-500x298.jpg" alt="" width="500" height="298" />][4]
+<img class="size-large wp-image-298 alignnone" title="Juming Museum" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/HDR2.jpg" alt="" width="500" height="298" />
 
 <br class="spacer_" />
-
- [1]: http://www.doversten.nu/blog/wp-content/uploads/2010/10/HDR3.jpg
- [2]: http://www.doversten.nu/blog/wp-content/uploads/2010/10/IMG_6003.jpg
- [3]: http://www.doversten.nu/blog/wp-content/uploads/2010/10/IMG_6034.jpg
- [4]: http://www.doversten.nu/blog/wp-content/uploads/2010/10/HDR2.jpg

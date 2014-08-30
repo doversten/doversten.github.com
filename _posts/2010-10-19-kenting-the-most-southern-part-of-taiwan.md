@@ -23,7 +23,7 @@ Som ni förstår ligger vi inte på latsidan under vår vistelse i Taiwan. Det g
 
 <br class="spacer_" />
 
-[<img class="size-large wp-image-252 alignnone" title="Kenting, Beach" src="http://www.doversten.nu/blog/wp-content/uploads/2010/10/101015-004-500x333.jpg" alt="" width="500" height="333" />][1]
+<img class="size-large wp-image-252 alignnone" title="Kenting, Beach" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/101015-004.jpg" alt="" width="500" height="333" />
 
 <br class="spacer_" />
 
@@ -31,7 +31,7 @@ Fredagen följdes inte helt otippat av bad, sol och en trevlig sväng på Kentin
 
 <br class="spacer_" />
 
-[<img class="size-large wp-image-276 alignnone" title="Charlie at the corner" src="http://www.doversten.nu/blog/wp-content/uploads/2010/11/101015-010-500x333.jpg" alt="" width="500" height="333" />][2]
+<img class="size-large wp-image-276 alignnone" title="Charlie at the corner" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/101015-010.jpg" alt="" width="500" height="333" />
 
 <br class="spacer_" />
 
@@ -44,6 +44,3 @@ Tiden snurrade på i en väldig fart och helt plötslig var det kväll igen, lö
 <br class="spacer_" />
 
 Innan vi visste ordet av var det var dags att åka hem, tillbaka till Tapei City. Men med ett vackert minne inbränt längst bak i hjärnbalken var jag mer nöjd än någonsin. Kenting hade imponerat stort på mig och jag hoppas innerligt att jag får komma tillbaka någon gång. Så om ni funderar på att resa till Asien, ger jag här och nu alla mina rekommendationer till att besöka Taiwan och dess sydligast spets.
-
- [1]: http://www.doversten.nu/blog/wp-content/uploads/2010/10/101015-004.jpg
- [2]: http://www.doversten.nu/blog/wp-content/uploads/2010/11/101015-010.jpg

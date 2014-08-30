@@ -16,7 +16,7 @@ tags:
   - taiwan
 section: taiwan
 ---
-![My first room in Taiwan]({{ site.url }}/assets/dorm_3.jpg)
+![My first room in Taiwan](https://s3-eu-west-1.amazonaws.com/doversten.se/assets/dorm_3.jpg)
 
 <br class="spacer_" />
 

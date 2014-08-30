@@ -27,7 +27,7 @@ tags:
   - watermelon
 section: taiwan
 ---
-[<img class="alignnone size-large wp-image-155" title="View from my roof in Taipei" src="http://www.doversten.nu/blog/wp-content/uploads/2010/09/view1-hdr-500x332.jpg" alt="" />][1]
+[<img class="alignnone size-large wp-image-155" title="View from my roof in Taipei" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/view1-hdr.jpg" alt="" />][1]
 
 <br class="spacer_" />
 
@@ -43,7 +43,7 @@ Men när allt kändes som mest hopplöst kände jag något knöligt i väskan so
 
 <br class="spacer_" />
 
-[<img class="alignnone size-medium wp-image-148" title="MRT, Taipei" src="http://www.doversten.nu/blog/wp-content/uploads/2010/09/ebig-300x399.jpg" alt="" />][2]
+[<img class="alignnone size-medium wp-image-148" title="MRT, Taipei" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/ebig.jpg" alt="" />][2]
 
 <br class="spacer_" />
 
@@ -55,7 +55,7 @@ Min strapats i vilsenhet hade gett mig många nya erfarenheter och desto fler ny
 
 <br class="spacer_" />
 
-[<img class="alignnone size-large wp-image-156" title="Watermelon" src="http://www.doversten.nu/blog/wp-content/uploads/2010/09/IMG_4791-500x328.jpg" alt="" />][3]
+[<img class="alignnone size-large wp-image-156" title="Watermelon" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/IMG_4791.jpg" alt="" />][3]
 
 <br class="spacer_" />
 

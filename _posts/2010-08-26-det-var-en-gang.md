@@ -24,7 +24,7 @@ tags:
   - taiwan
 section: taiwan
 ---
-<img class="alignnone size-full wp-image-71" title="Taipei City by night" src="http://www.doversten.nu/blog/wp-content/uploads/2010/09/taipei.jpg" alt="" width="500" height="332" />
+<img class="alignnone size-full wp-image-71" title="Taipei City by night" src="https://s3-eu-west-1.amazonaws.com/doversten.se/assets/taipei.jpg" alt="" width="500" height="332" />
 
 <br class="spacer_" />
 
