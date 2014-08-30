@@ -4,14 +4,27 @@ encoding: utf-8
 exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
 
 # Site settings
-title: Taiwan
-email: martin@doversten.se
-author: Martin Doversten
-description: "My life in Taiwan."
-baseurl: ""
 url: "http://localhost:4000"
 
-# Build settings
-markdown: kramdown
-permalink: pretty
-paginate: 3
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Taiwan
+tagline:          My life in Taiwan
+url:              http://doversten.se
+paginate:         1
+baseurl:          /
+author:
+  name:           Martin Doversten
+  url:            https://twitter.com/doversten
+  email:          martin@doversten.se
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
