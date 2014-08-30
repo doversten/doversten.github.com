@@ -1,0 +1,17 @@
+highlighter: pygments
+github: [Repository metadata]
+encoding: utf-8
+exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
+
+# Site settings
+title: Taiwan
+email: martin@doversten.se
+author: Martin Doversten
+description: "My life in Taiwan."
+baseurl: ""
+url: "http://localhost:4000"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
