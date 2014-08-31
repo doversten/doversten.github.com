@@ -60,5 +60,5 @@ Min strapats i vilsenhet hade gett mig många nya erfarenheter och desto fler ny
 <br class="spacer_" />
 
  [1]: http://www.doversten.nu/blog/wp-content/uploads/2010/09/view1-hdr1.jpg
- [2]: http://www.doversten.nu/blog/wp-content/uploads/2010/09/ebig1.jpg
+ [2]: https://s3-eu-west-1.amazonaws.com/doversten.se/assets/ebig.jpg
  [3]: http://www.doversten.nu/blog/wp-content/uploads/2010/09/IMG_47911.jpg
